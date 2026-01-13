@@ -1,5 +1,4 @@
-# Opa! eu sou o Guilherme👋
-# Hi! I am Guilherme👋
+# Hi there, I'm Guilherme! | Olá, eu sou o Guilherme! 👋
 
 ### 🚀 Estudante de Programação Full Stack na Growdev
 
@@ -18,6 +17,12 @@ Atualmente focado em construir sistemas escaláveis e aprender novas tecnologias
 
 ---
 
-### 📫 Idiomas:
-- 🇺🇸 **English:** Hi there!
-- 🇧🇷 **Português:** Olá!
+### 🔍 Foco Atual:
+- 🏗️ Construção de APIs robustas e escaláveis.
+- 🐳 Virtualização e ambientes de desenvolvimento com Docker.
+- 📘 Desenvolvimento tipado com TypeScript para maior segurança no código.
+
+---
+
+### 📫 Contato:
+- 📧 Você pode me encontrar aqui no GitHub ou em meus projetos!
