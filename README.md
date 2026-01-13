@@ -1,4 +1,5 @@
-# Olá, eu sou o Guilherme! 👋
+# Opa! eu sou o Guilherme👋
+# Hi! I am Guilherme👋
 
 ### 🚀 Estudante de Programação Full Stack na Growdev
 
