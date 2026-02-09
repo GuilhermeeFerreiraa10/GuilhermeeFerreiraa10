@@ -26,4 +26,4 @@ Atualmente focado em construir sistemas escaláveis e aprender novas tecnologias
 
 ### 📫 Contato:
 - 📧 Você pode me encontrar aqui no GitHub ou em meus projetos!
-- 📧[**Aqui você pode conferir o meu portfólio**](https://my-portfolio-guilhermeferreira.vercel.app/)
+- 📧 [**Aqui você pode conferir o meu portfólio**](https://my-portfolio-guilhermeferreira.vercel.app/)
